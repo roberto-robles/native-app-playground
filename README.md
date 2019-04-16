@@ -1,14 +1,14 @@
 # native-app-playground
 
-A Clojure library designed to ... well, that part is up to you.
+@author: roberto-robles
+Kitchen Sink demo of some of the ReactNative components implemented on Reagent/Re-Natal.
 
 ## Usage
 
-FIXME
+Install ReactNative
+Install Clojure/Clojurescript/Java JDK/JRE
+Leiningen 2.8.3
+re-natal Follow instructions on https://github.com/drapanjanas/re-natal/blob/master/README.md
 
-## License
+Build and run project following re-natal instructions.
 
-Copyright © 2019 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
