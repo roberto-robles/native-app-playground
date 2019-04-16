@@ -52,3 +52,11 @@ npm-debug.log
 figwheel_server.log
 
 target
+
+# Re-natal build
+.babelrc
+.buckconfig
+.flowconfig
+.gitattributes
+.re-natal
+.watchmanconfig

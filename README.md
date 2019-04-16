@@ -1,6 +1,7 @@
 # native-app-playground
 
 @author: roberto-robles
+
 Kitchen Sink demo of some of the ReactNative components implemented on Reagent/Re-Natal.
 
 ## Usage
