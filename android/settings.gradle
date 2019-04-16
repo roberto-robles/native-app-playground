@@ -1,0 +1,3 @@
+rootProject.name = 'NativeAppPlayground'
+
+include ':app'
